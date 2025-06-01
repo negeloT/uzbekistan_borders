@@ -33,3 +33,9 @@ obl_code — уникальный код области из таблиц Нац
 В папке SHP_LVL содержится слой в формате shapefile (.shp и сопутствующие файлы)
 
 В папке GEOJSON_LVL содержится тот же слой, но в формате GeoJSON
+
+**Источник данных**
+
+В этом репозитории используются данные из OpenStreetMap, © участники проекта [OpenStreetMap](https://www.openstreetmap.org/).
+
+Данные предоставляются по лицензии [Open Database License (ODbL) 1.0](https://opendatacommons.org/licenses/odbl/1.0/).
