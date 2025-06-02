@@ -37,3 +37,11 @@ obl_code — уникальный код области из таблиц Нац
 **Источник данных**
 
 В этом репозитории используются данные из OpenStreetMap, © участники проекта [OpenStreetMap](https://www.openstreetmap.org/).
+
+**License**
+
+This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+
+**Attribution**
+
+Dataset created by Tolegen Akynzhanov
